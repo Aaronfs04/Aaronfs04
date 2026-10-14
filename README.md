@@ -7,11 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [aaronfaustine.vercel.app](aaronfaustine.vercel.app)
 
-- 💬 Ask me about **react, NextJS**
-
 - 📫 How to reach me **aaronf.suryanto@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DCXdnmH41DVZKAGPJ-qoJwd8f--rczE5/view?usp=sharing](https://drive.google.com/file/d/1DCXdnmH41DVZKAGPJ-qoJwd8f--rczE5/view?usp=sharing)
+- 📄 Know about my experiences [my_cv](https://drive.google.com/file/d/1DCXdnmH41DVZKAGPJ-qoJwd8f--rczE5/view?usp=sharing)
 
 - ⚡ Fun fact **I am a really, i mean really talkative person**
 
