@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Laravel, Tailwind, PHP**
 
-- 👨‍💻 All of my projects are available at [aaronfaustine.vercel.app]([https//aaronfaustine.vercel.app](https://aaronfaustine.vercel.app/))
+- 👨‍💻 All of my projects are available at [aaronfaustine.vercel.app](https://aaronfaustine.vercel.app/)
 
 - 📫 How to reach me **aaronf.suryanto@gmail.com**
 
