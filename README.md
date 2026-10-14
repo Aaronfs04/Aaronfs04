@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A passionate Fullstack, AI developer from Indonesia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaronfs04" alt="aaronfs04" /></a> </p>
-
 - 🔭 I’m currently working on [Linear-Studio](https://halolinear.com)
 
 - 🌱 I’m currently learning **Docker, Laravel, Tailwind, PHP**
