@@ -1,4 +1,4 @@
-<img width="1871" height="595" alt="image" src="https://github.com/user-attachments/assets/9ec21cb5-a152-4dbd-b877-e8fe8c932197" /><h1 align="center">Hi 👋, I'm Aaron</h1>
+<h1 align="center">Hi 👋, I'm Aaron</h1>
 <h3 align="center">A passionate Fullstack, AI developer from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronfs04&label=Profile%20views&color=0e75b6&style=flat" alt="aaronfs04" /> </p>
